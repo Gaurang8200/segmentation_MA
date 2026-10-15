@@ -1,0 +1,28 @@
+{
+  "version": "6.2.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "box",
+      "points": [
+        [
+          184.5933014354067,
+          390.0
+        ],
+        [
+          447.7511961722488,
+          201.96172248803828
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\train\\p15.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

@@ -1,0 +1,60 @@
+{
+  "version": "6.2.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "box",
+      "points": [
+        [
+          582.0,
+          313.0
+        ],
+        [
+          19.0,
+          293.5
+        ],
+        [
+          14.5,
+          281.0
+        ],
+        [
+          7.5,
+          172.0
+        ],
+        [
+          12.0,
+          167.5
+        ],
+        [
+          37.0,
+          162.5
+        ],
+        [
+          84.0,
+          162.5
+        ],
+        [
+          572.0,
+          188.5
+        ],
+        [
+          599.0,
+          200.0
+        ],
+        [
+          585.5,
+          308.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\train\\WIN_20260512_11_21_23_Pro.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}
